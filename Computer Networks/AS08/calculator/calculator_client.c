@@ -1,5 +1,4 @@
-/*Name : Jay Jagtap
-3154037
+/*
 Problem Statement: To implement client-server calculator.
 */
 
